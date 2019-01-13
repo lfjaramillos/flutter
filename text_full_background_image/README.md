@@ -4,12 +4,12 @@ In the background we have an image and above a black container that has a transp
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a challenge to introduce widgest in fluter
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get  started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+- [Introduction to widgets](https://flutter.io/docs/development/ui/widgets-intro)
+- [BoxDecoration class](https://docs.flutter.io/flutter/painting/BoxDecoration-class.html)
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
